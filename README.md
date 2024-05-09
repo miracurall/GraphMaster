@@ -1,5 +1,5 @@
 # GraphMaster
-Simple online virtual graph paper with basic drafting tools. [View it live](https://graphmaster.github.io/)
+Simple online virtual graph paper with basic drafting tools. [View it live](https://graphmasterweb.github.io/)
 
 ![screenshot](png/hero.png)
 ![screenshot](png/Screenshot.png)
